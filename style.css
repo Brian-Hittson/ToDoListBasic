@@ -1,0 +1,14 @@
+:root {
+    --trashRed: #fb9a9a;
+    --primaryGrey: #cccccc;
+    --primaryPurple: #646fd4;
+}
+
+body {
+    background-color: var(--trashRed);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+}
